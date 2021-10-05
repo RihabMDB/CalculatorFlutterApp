@@ -1,6 +1,6 @@
-# hello_rectangle
+# Calculator App
 
-A new Flutter project.
+A calculator Flutter app.
 
 ![244124176_564581691450252_5077666496331968126_n](https://user-images.githubusercontent.com/49583942/136096529-99da8a5e-f40d-41d7-9e4a-6fae80d236a8.jpg)
 
